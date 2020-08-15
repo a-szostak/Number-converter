@@ -1,0 +1,42 @@
+body{
+    font-family: "Lexend Zetta";
+}
+
+header{
+  text-align: center;
+  background-color: lightgrey;
+}
+
+h1{
+  font-size: 40px;
+  padding-top: 30px;
+}
+
+h3{
+  padding-bottom: 20px;
+}
+
+#choice{
+  text-align: center;
+  margin-top: 30px;
+}
+select{
+    padding: 10px 30px;
+    margin: 20px 35px;
+    background-color: whitesmoke;
+}
+
+#number{
+  text-align: center;
+  margin-top: 30px;
+}
+
+input{
+  padding: 50px;
+  margin: 20px 20px;
+  font-size: 30px;
+}
+
+button{
+  font-size: 20px;
+}
